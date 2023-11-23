@@ -1,0 +1,1 @@
+# collecting-mobile-informations-from-flipkart-through---web-scraping-
